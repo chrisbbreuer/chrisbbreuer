@@ -1,0 +1,58 @@
+{
+  "width": 1500,
+  "height": 500,
+  "sources": {
+    "twitter": {
+      "count": 4,
+      "class": "App\\ImageSource\\TwitterFollowerImageSource"
+    }
+  },
+  "elements": {
+    "tw1": {
+      "type": "image",
+      "properties": {
+        "pos_x": 1180,
+        "pos_y": 417,
+        "width": 52,
+        "height": 52
+      }
+    },
+    "tw2": {
+      "type": "image",
+      "properties": {
+        "pos_x": 1252,
+        "pos_y": 417,
+        "width": 52,
+        "height": 52
+      }
+    },
+    "tw3": {
+      "type": "image",
+      "properties": {
+        "pos_x": 1324,
+        "pos_y": 417,
+        "width": 52,
+        "height": 52
+      }
+    },
+    "tw4": {
+      "type": "image",
+      "properties": {
+        "pos_x": 1396,
+        "pos_y": 417,
+        "width": 52,
+        "height": 52
+      }
+    },
+    "cover": {
+      "type": "image",
+      "properties": {
+        "width": 1500,
+        "height": 500,
+        "pos_x": 0,
+        "pos_y": 0,
+        "image": "cover_chris.png"
+      }
+    }
+  }
+}

@@ -10,11 +10,9 @@ Currently, we are spending a lot of time in & around Germany because that's the 
 
 In my "free time," I love Open Source development, like working on the Stacks & Meema ecosystems.
 
-Your support and sponsorship mean a lot to me!  ❤️
-
 ### A few highlights
 
-- [Stacks](https://github.com/stacksjs/stacks) - A full-stack framework powered by Vite, deeply inspired by Laravel & Vue.js.
+- [Stacks](https://github.com/stacksjs/stacks) - A full-stack framework powered by Vite. _Deeply inspired by Laravel & Vue.js._
 - [Meema](https://github.com/meemalabs) - Media & file management with ease—front & backend
 - [Open Web](https://github.com/ow3org) - Where web2 ingenuity meets web3 mindset. A decentralized community that develops progressive, open web standards, and stacks.
 
@@ -37,6 +35,6 @@ Aside from core Stacks development, these are the stacks we will finish next:
 
 Timelines, in all likelihood, will change a lot but you may use those as indications of priorities.
 
-Would love to hear from you & get to know you!
+Connect with me here or on Twitter. I would love to hear from you & get to know you!
 
 _Oh, and say hi to [Buddy](https://www.instagram.com/somebuddyspecial/), my bestie & partner in crime!_
