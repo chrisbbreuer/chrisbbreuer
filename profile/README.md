@@ -16,7 +16,7 @@ In my "free time," I love Open Source development, like working on the Stacks & 
 - [Meema](https://github.com/meemalabs) - Media & file management with ease—front & backend
 - [Open Web](https://github.com/ow3org) - Where web2 ingenuity meets web3 mindset. A decentralized community that develops progressive, open web standards, and stacks.
 
-### My current focus
+### Current Focus
 
 Aside from core Stacks development, these are the stacks we will finish next:
 
@@ -37,4 +37,4 @@ Timelines, in all likelihood, will change a lot but you may use those as indicat
 
 Connect with me here or on Twitter. I would love to hear from you & get to know you!
 
-_Oh, and say hi to [Buddy](https://www.instagram.com/somebuddyspecial/), my bestie & partner in crime!_
+_Oh, and say hi to [Buddy](https://www.instagram.com/somebuddyspecial/), the partner in crime!_
