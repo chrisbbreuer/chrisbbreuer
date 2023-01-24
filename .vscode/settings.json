@@ -5,12 +5,14 @@
         "dyna",
         "dynacover",
         "erikaheidi",
+        "headlessui",
         "lowlighter",
         "mapbox",
         "meema",
         "meemalabs",
         "raycast",
         "rehype",
-        "stacksjs"
+        "stacksjs",
+        "tailwindcss"
     ]
 }
