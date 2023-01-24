@@ -9,12 +9,12 @@ export async function generateRssFeed() {
   let siteUrl = process.env.NEXT_PUBLIC_SITE_URL
   let author = {
     name: 'Chris Breuer',
-    email: 'spencer@planetaria.tech',
+    email: 'chris@stacksjs.dev',
   }
 
   let feed = new Feed({
     title: author.name,
-    description: 'Your blog description',
+    description: 'Chris Breuer\'s personal blog. I write about web technologies & application development. And some other stuff.',
     author,
     id: siteUrl,
     link: siteUrl,
@@ -28,6 +28,8 @@ export async function generateRssFeed() {
   })
 
   for (let article of articles) {
+    if (article.date === 'Coming soon.') continue
+    
     let url = `${siteUrl}/articles/${article.slug}`
     let html = ReactDOMServer.renderToStaticMarkup(
       <article.component isRssFeed />
