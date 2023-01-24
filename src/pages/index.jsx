@@ -222,7 +222,7 @@ export default function Home({ articles }) {
     <>
       <Head>
         <title>
-          Chris Breuer - Software designer, founder, and 
+          Chris Breuer - OSS software designer, founder and entrepreneur based in Playa Vista, California. And dog lover 🐶
         </title>
         <meta
           name="description"
