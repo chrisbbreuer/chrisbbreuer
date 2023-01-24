@@ -85,11 +85,10 @@ export default function About() {
                 techniques these past years. And this was the reason I started working on Stacks.
               </p>
               <p>
-                Today, I’m the founder of Open Web & author of the Stacks framework.
-                It is where we’re working on the future of web technologies & application
-                development, and I’m excited to share it with you with our upcoming v1.0
-                release. Until then, follow us on GitHub & Twitter for the latest & greatest
-                real-time updates.
+                Today, I’m the founder of Open Web & the Stacks framework. It is where we are
+                working on the future of web technologies & application development, and I’m
+                excited to share our upcoming v1.0 release. Until then, follow us on GitHub
+                & Twitter for the latest and greatest real-time updates.
               </p>
             </div>
           </div>
