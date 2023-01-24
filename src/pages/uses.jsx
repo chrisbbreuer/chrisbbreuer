@@ -58,10 +58,6 @@ export default function Uses() {
               I’ve been using the MX Master 3 for a few years now and it’s been great. The MX Master 3S feels similar, 
               with a few minor improvements, like the clicks. The scroll wheel is great as always!
             </Tool>
-            {/* <Tool title="Herman Miller Aeron Chair">
-              If I’m going to slouch in the worst ergonomic position imaginable
-              all day, I might as well do it in an expensive chair.
-            </Tool> */}
           </ToolsSection>
           <ToolsSection title="Development tools">
             <Tool title="VS Code">
@@ -69,9 +65,9 @@ export default function Uses() {
               With few extensions, it can be a full-fledged IDE. 
             </Tool>
             <Tool title="iTerm2">
-              I’m honestly not even sure what features I get with this that
-              aren’t just part of the macOS Terminal but it’s what I use.
-              <em>Currently exploring Warp.</em>
+              Jeffrey Way recommended it years ago during one of the Laracasts 
+              videos I was watching. Stuck with it ever since, great terminal.
+              <em> Currently exploring Warp.</em>
             </Tool>
             <Tool title="Stacks">
                The Stacks Desktop app is key to my productivity.
