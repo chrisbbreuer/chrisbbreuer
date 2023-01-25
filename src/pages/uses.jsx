@@ -60,12 +60,12 @@ export default function Uses() {
             </Tool>
           </ToolsSection>
           <ToolsSection title="Development tools">
-            <Tool title="VS Code">
-              VS Code is an amazing editor, and it’s only getting better.
-              With few extensions, it can be a full-fledged IDE. 
+            <Tool title="GitHub Desktop">
+              GitHub Desktop is my trusty sidekick for most git needs. No shame.
+              It’s a great tool to keep your codebase in check, and your commits in line, visually.
             </Tool>
             <Tool title="iTerm2">
-              Jeffrey Way recommended it years ago during one of the Laracasts 
+              Jeffrey Way recommended it years ago during one of the Laracasts
               videos I was watching. Stuck with it ever since, great terminal.
               <em> Currently exploring Warp.</em>
             </Tool>
@@ -79,6 +79,10 @@ export default function Uses() {
                and TablePlus is the best I have used.
                Great software for working with databases.
             </Tool>
+            <Tool title="VS Code">
+              VS Code is an amazing editor, and it’s only getting better.
+              With few extensions & settings, it becomes a full-fledged IDE.
+            </Tool>
           </ToolsSection>
           <ToolsSection title="Design">
             <Tool title="Figma">
@@ -88,7 +92,8 @@ export default function Uses() {
           </ToolsSection>
           <ToolsSection title="Productivity">
             <Tool title="Raycast">
-              A pretty UI. Raycast makes it simple, fast and delightful to control my tools.
+              With a pretty UI, Raycast makes it simple, fast and delightful to control my tools.
+              I love the fact I can assign custom keyboard shortcuts to anything.
             </Tool>
             <Tool title="SavvyCal">
               Great tool for scheduling meetings while protecting my calendar
