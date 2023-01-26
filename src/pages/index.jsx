@@ -12,11 +12,11 @@ import {
   GitHubIcon,
   LinkedInIcon,
 } from '@/components/SocialIcons'
-import image1 from '@/images/photos/buddy1.jpeg'
-import image2 from '@/images/photos/buddy2.jpeg'
-import image3 from '@/images/photos/buddy3.jpeg'
-import image4 from '@/images/photos/buddy4.jpeg'
-import image5 from '@/images/photos/buddy5.jpeg'
+import image1 from '@/images/photos/image-1.jpeg'
+import image2 from '@/images/photos/image-2.jpeg'
+import image3 from '@/images/photos/image-3.jpeg'
+import image4 from '@/images/photos/image-4.jpeg'
+import image5 from '@/images/photos/image-5.jpeg'
 import logoEliinova from '@/images/logos/eliinova.png'
 import logoCion from '@/images/logos/cion.png'
 import logoBixolon from '@/images/logos/bixolon.png'
