@@ -19,6 +19,7 @@ import image4 from '@/images/photos/buddy4.jpeg'
 import image5 from '@/images/photos/buddy5.jpeg'
 import logoEliinova from '@/images/logos/eliinova.png'
 import logoCion from '@/images/logos/cion.png'
+import logoBixolon from '@/images/logos/bixolon.png'
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
 
@@ -100,7 +101,7 @@ function Newsletter() {
         <span className="ml-3">Stay up to date</span>
       </h2>
       <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-400">
-        Get notified when I publish something new, and unsubscribe at any time.
+        Get notified when I publish something new, and unsubscribe at any time. <em>No hard feelings.</em>
       </p>
       <div className="mt-6 flex">
         <input
@@ -120,6 +121,16 @@ function Newsletter() {
 
 function Resume() {
   let resume = [
+    {
+      company: 'Bixolon',
+      title: 'Consultant',
+      logo: logoBixolon,
+      start: '2020',
+      end: {
+        label: 'Present',
+        dateTime: new Date().getFullYear(),
+      },
+    },
     {
       company: 'CION',
       title: 'Founder & CEO',
