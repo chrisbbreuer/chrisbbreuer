@@ -95,8 +95,8 @@ function SocialLink({ icon: Icon, ...props }) {
 function Newsletter() {
   return (
     <div>
-      <div className="mx-auto max-w-7xl md:grid md:grid-cols-1">
-        <div className="pb-12 px-6 md:flex md:flex-col md:pl-0">
+      <div className="mx-auto max-w-7xl md:grid md:grid-cols-1 rounded-2xl border border-zinc-100 p-6 mb-6 dark:border-zinc-700/40">
+        <div className="md:flex md:flex-col">
           <div className="md:flex-shrink-0">
             <img className="h-20" src="https://logos-world.net/wp-content/uploads/2022/01/University-of-Oregon-Logo.png" alt="University of Oregon Logo" />
           </div>
