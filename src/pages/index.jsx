@@ -23,6 +23,7 @@ import logoBixolon from '@/images/logos/bixolon.png'
 import logoUofO from '@/images/logos/uofo.png'
 import logoGirlgaze from '@/images/logos/girlgaze.png'
 import logoJwi from '@/images/logos/jwi.svg'
+import logoOw3 from '@/images/logos/ow3.png'
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
 
@@ -163,6 +164,16 @@ function Newsletter() {
 
 function Resume() {
   let resume = [
+    {
+      company: 'Open Web Foundation',
+      title: 'Community Builder',
+      logo: logoOw3,
+      start: '2022',
+      end: {
+        label: 'Present',
+        dateTime: new Date().getFullYear(),
+      },
+    },
     {
       company: 'Bixolon',
       title: 'Consultant',
