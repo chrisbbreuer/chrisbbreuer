@@ -21,6 +21,7 @@ import logoEliinova from '@/images/logos/eliinova.png'
 import logoCion from '@/images/logos/cion.png'
 import logoBixolon from '@/images/logos/bixolon.png'
 import logoUofO from '@/images/logos/uofo.png'
+import logoGirlgaze from '@/images/logos/girlgaze.jpg'
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
 
@@ -198,6 +199,16 @@ function Resume() {
       start: '2020',
       end: {
         label: '2021',
+        dateTime: new Date().getFullYear(),
+      },
+    },
+    {
+      company: 'Girlgaze',
+      title: 'Consultant',
+      logo: logoGirlgaze,
+      start: '2019',
+      end: {
+        label: '2020',
         dateTime: new Date().getFullYear(),
       },
     },
