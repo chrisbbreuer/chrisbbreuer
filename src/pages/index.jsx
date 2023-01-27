@@ -102,9 +102,9 @@ function Newsletter() {
             <img className="h-20" src="https://logos-world.net/wp-content/uploads/2022/01/University-of-Oregon-Logo.png" alt="University of Oregon Logo" />
           </div>
           <blockquote className="mt-6 md:flex md:flex-grow md:flex-col">
-            <div className="relative text-lg font-medium text-zinc-600 md:flex-grow">
+            <div className="relative text-lg font-medium text-zinc-800 dark:text-zinc-300 md:flex-grow">
               <svg
-                className="absolute top-0 left-0 h-8 w-8 -translate-x-3 -translate-y-2 transform text-zinc-200"
+                className="absolute top-0 left-0 h-8 w-8 -translate-x-3 -translate-y-2 transform text-zinc-200 dark:text-zinc-700"
                 fill="currentColor"
                 viewBox="0 0 32 32"
                 aria-hidden="true"
@@ -125,7 +125,7 @@ function Newsletter() {
                   />
                 </div>
                 <div className="ml-4">
-                  <div className="text-base font-medium text-sm text-zinc-800 dark:text-zinc-600">Dr. Gerald Tindal</div>
+                  <div className="text-base font-medium text-sm text-zinc-800 dark:text-zinc-200">Dr. Gerald Tindal</div>
                   <div className="text-base font-medium text-sm text-zinc-600 dark:text-zinc-400">Department Head of Educational Methodology, Policy, and Leadership</div>
                 </div>
               </div>
