@@ -22,6 +22,7 @@ import logoCion from '@/images/logos/cion.png'
 import logoBixolon from '@/images/logos/bixolon.png'
 import logoUofO from '@/images/logos/uofo.png'
 import logoGirlgaze from '@/images/logos/girlgaze.jpg'
+import logoJwi from '@/images/logos/jwi.svg'
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
 
@@ -209,6 +210,16 @@ function Resume() {
       start: '2019',
       end: {
         label: '2020',
+        dateTime: new Date().getFullYear(),
+      },
+    },
+    {
+      company: 'JWI, Inc.',
+      title: 'Consultant',
+      logo: logoJwi,
+      start: '2018',
+      end: {
+        label: '2022',
         dateTime: new Date().getFullYear(),
       },
     },
