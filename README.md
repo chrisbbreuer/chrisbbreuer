@@ -4,7 +4,7 @@
 
 My name is Chris. I am 29 years old & a passionate open-source developer who loves to travel the world, learn about new cultures & eat good food.
 
-In case I am not traveling the world, I live in Los Angeles, CA. At the moment, though, my wife and I (+ our two dogs, Buddy & Lulu) are traveling for a couple more months. So, if you ever want to meet up, let us know—we would love to swing by for a drink/snack—no matter where in the world!
+In case I am not traveling the world, I live in Los Angeles, CA. At the moment, though, my wife and I (+ our two dogs, Buddy & Lulu) are traveling for a couple more months. So, if you ever want to meet up, let us know—we would love to swing by for a drink/snack—no matter where in the US!
 
 ### A few highlights
 
