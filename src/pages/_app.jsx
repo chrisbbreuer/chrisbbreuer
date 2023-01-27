@@ -19,6 +19,27 @@ function usePrevious(value) {
 export default function App({ Component, pageProps, router }) {
   let previousPathname = usePrevious(router.pathname)
 
+  const router = useRouter();
+
+  useEffect(() => {
+    // Initialize Fathom when the app loads
+    Fathom.load('RWXTXCQZ', {
+      includedDomains: ['www.chrisbreuer.dev'],
+    });
+
+    function onRouteChangeComplete() {
+      Fathom.trackPageview();
+    }
+    
+    // Record a pageview when route changes
+    router.events.on('routeChangeComplete', onRouteChangeComplete);
+
+    // Unassign event listener
+    return () => {
+      router.events.off('routeChangeComplete', onRouteChangeComplete);
+    };
+  }, []);
+
   return (
     <>
       <div className="fixed inset-0 flex justify-center sm:px-8">
