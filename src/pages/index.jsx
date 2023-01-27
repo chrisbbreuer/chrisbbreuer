@@ -300,22 +300,22 @@ export default function Home({ articles }) {
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
-              href="https://twitter.com"
+              href="https://twitter.com/chrisbbreuer"
               aria-label="Follow on Twitter"
               icon={TwitterIcon}
             />
             <SocialLink
-              href="https://github.com"
+              href="https://github.com/chrisbbreuer"
               aria-label="Follow on GitHub"
               icon={GitHubIcon}
             />
             <SocialLink
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/%F0%9F%8C%B1-chris-breuer-33231765/"
               aria-label="Follow on LinkedIn"
               icon={LinkedInIcon}
             />
             <SocialLink
-              href="https://instagram.com"
+              href="https://instagram.com/somebuddyspecial"
               aria-label="Follow on Instagram"
               icon={InstagramIcon}
             />
