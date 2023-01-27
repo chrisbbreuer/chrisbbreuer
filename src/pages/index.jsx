@@ -20,6 +20,7 @@ import image5 from '@/images/photos/image-5.jpeg'
 import logoEliinova from '@/images/logos/eliinova.png'
 import logoCion from '@/images/logos/cion.png'
 import logoBixolon from '@/images/logos/bixolon.png'
+import logoUofO from '@/images/logos/uofo.png'
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
 
@@ -92,30 +93,69 @@ function SocialLink({ icon: Icon, ...props }) {
 
 function Newsletter() {
   return (
-    <form
-      action="/thank-you"
-      className="rounded-2xl border border-zinc-100 p-6 dark:border-zinc-700/40"
-    >
-      <h2 className="flex text-sm font-semibold text-zinc-900 dark:text-zinc-100">
-        <MailIcon className="h-6 w-6 flex-none" />
-        <span className="ml-3">Stay up to date</span>
-      </h2>
-      <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-400">
-        Get notified when I publish something new, and unsubscribe at any time. <em>No hard feelings.</em>
-      </p>
-      <div className="mt-6 flex">
-        <input
-          type="email"
-          placeholder="Email address"
-          aria-label="Email address"
-          required
-          className="min-w-0 flex-auto appearance-none rounded-md border border-zinc-900/10 bg-white px-3 py-[calc(theme(spacing.2)-1px)] shadow-md shadow-zinc-800/5 placeholder:text-zinc-400 focus:border-teal-500 focus:outline-none focus:ring-4 focus:ring-teal-500/10 dark:border-zinc-700 dark:bg-zinc-700/[0.15] dark:text-zinc-200 dark:placeholder:text-zinc-500 dark:focus:border-teal-400 dark:focus:ring-teal-400/10 sm:text-sm"
-        />
-        <Button type="submit" className="ml-4 flex-none">
-          Join
-        </Button>
+    <div>
+      <div className="mx-auto max-w-7xl md:grid md:grid-cols-1">
+        <div className="pb-12 px-6 md:flex md:flex-col md:pl-0">
+          <div className="md:flex-shrink-0">
+            <img className="h-20" src="https://logos-world.net/wp-content/uploads/2022/01/University-of-Oregon-Logo.png" alt="University of Oregon Logo" />
+          </div>
+          <blockquote className="mt-6 md:flex md:flex-grow md:flex-col">
+            <div className="relative text-lg font-medium text-zinc-600 md:flex-grow">
+              <svg
+                className="absolute top-0 left-0 h-8 w-8 -translate-x-3 -translate-y-2 transform text-zinc-200"
+                fill="currentColor"
+                viewBox="0 0 32 32"
+                aria-hidden="true"
+              >
+                <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z" />
+              </svg>
+              <p className="relative">
+                You should have become a teacher.
+              </p>
+            </div>
+            <footer className="mt-8">
+              <div className="flex items-start">
+                <div className="inline-flex flex-shrink-0 rounded-full border-2 border-white">
+                  <img
+                    className="h-12 w-12 rounded-full object-cover"
+                    src="https://education.uoregon.edu/sites/education2.uoregon.edu/files/uo_profiles/geraldtc7fb39.jpg"
+                    alt="Gerald Tindal Headshot"
+                  />
+                </div>
+                <div className="ml-4">
+                  <div className="text-base font-medium text-sm text-zinc-800 dark:text-zinc-600">Dr. Gerald Tindal</div>
+                  <div className="text-base font-medium text-sm text-zinc-600 dark:text-zinc-400">Department Head of Educational Methodology, Policy, and Leadership</div>
+                </div>
+              </div>
+            </footer>
+          </blockquote>
+        </div>
       </div>
-    </form>
+      <form
+        action="/thank-you"
+        className="rounded-2xl border border-zinc-100 p-6 dark:border-zinc-700/40"
+      >
+        <h2 className="flex text-sm font-semibold text-zinc-900 dark:text-zinc-100">
+          <MailIcon className="h-6 w-6 flex-none" />
+          <span className="ml-3">Stay up to date</span>
+        </h2>
+        <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-400">
+          Get notified when I publish something new, and unsubscribe at any time. <em>No hard feelings.</em>
+        </p>
+        <div className="mt-6 flex">
+          <input
+            type="email"
+            placeholder="Email address"
+            aria-label="Email address"
+            required
+            className="min-w-0 flex-auto appearance-none rounded-md border border-zinc-900/10 bg-white px-3 py-[calc(theme(spacing.2)-1px)] shadow-md shadow-zinc-800/5 placeholder:text-zinc-400 focus:border-teal-500 focus:outline-none focus:ring-4 focus:ring-teal-500/10 dark:border-zinc-700 dark:bg-zinc-700/[0.15] dark:text-zinc-200 dark:placeholder:text-zinc-500 dark:focus:border-teal-400 dark:focus:ring-teal-400/10 sm:text-sm"
+          />
+          <Button type="submit" className="ml-4 flex-none">
+            Join
+          </Button>
+        </div>
+      </form>
+    </div>
   )
 }
 
@@ -148,6 +188,16 @@ function Resume() {
       start: '2018',
       end: {
         label: 'Present',
+        dateTime: new Date().getFullYear(),
+      },
+    },
+    {
+      company: 'University of Oregon',
+      title: 'Consultant',
+      logo: logoUofO,
+      start: '2020',
+      end: {
+        label: '2021',
         dateTime: new Date().getFullYear(),
       },
     },
@@ -237,7 +287,7 @@ export default function Home({ articles }) {
         </title>
         <meta
           name="description"
-          content="I’m Chris, a software engineer and entrepreneur based in Playa Vista, CA—also known as Silicon Beach. I’m the founder of Stacks.js, Meema and CION."
+          content="I’m Chris, a software engineer, educator and entrepreneur based in Playa Vista, CA—also known as Silicon Beach. I’m the founder of Stacks.js, Meema and CION Agency."
         />
       </Head>
       <Container className="mt-9">
@@ -246,7 +296,7 @@ export default function Home({ articles }) {
             Software engineer, founder,<br />and dog lover 🐶
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Chris, a software engineer and entrepreneur based in Playa Vista, CA—also known as Silicon Beach. I’m the founder of Stacks.js, Meema and CION.
+            I’m Chris, a software engineer, educator and entrepreneur based in Playa Vista, CA—also known as Silicon Beach. I’m the founder of <em>Stacks.js</em>, <em>Meema</em> and <em>CION Agency</em>.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
