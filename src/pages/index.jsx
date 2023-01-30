@@ -166,7 +166,7 @@ function Resume() {
   let resume = [
     {
       company: 'Open Web Foundation',
-      title: 'Community Builder',
+      title: 'DevRel & Ecosystem Growth',
       logo: logoOw3,
       start: '2022',
       end: {
