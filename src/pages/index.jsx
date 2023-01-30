@@ -121,7 +121,7 @@ function Newsletter() {
                 <div className="inline-flex flex-shrink-0 rounded-full border-2 border-white">
                   <img
                     className="h-12 w-12 rounded-full object-cover"
-                    src="https://education.uoregon.edu/sites/education2.uoregon.edu/files/uo_profiles/geraldtc7fb39.jpg"
+                    src="/gerald.png"
                     alt="Gerald Tindal Headshot"
                   />
                 </div>
