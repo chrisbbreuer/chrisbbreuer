@@ -16,6 +16,9 @@ export default function Speaking() {
         title="Maybe this year?"
         intro="Stay tuned to find out."
       />
+      <div className='w-full'>
+        <iframe src="https://giphy.com/embed/3XmYIITQxzMtqcnaa7" width="100%" height="100%" frameBorder="0" allowFullScreen></iframe>
+      </div>
     </>
   )
 }
