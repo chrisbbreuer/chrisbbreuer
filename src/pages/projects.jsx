@@ -9,6 +9,7 @@ import logoGreenline from '@/images/logos/greenline.jpg'
 import logoDataSix from '@/images/logos/datasix.png'
 import logoOw3 from '@/images/logos/ow3.png'
 import logoJwi from '@/images/logos/jwi.svg'
+import logoCbmSkills from '@/images/logos/cbm.svg'
 
 const projects = [
   {
@@ -33,6 +34,12 @@ const projects = [
     logo: logoMeema,
   },
   {
+    name: 'CBM Skills',
+    description: 'Helping each student master math & reading. High-quality educational content ensures a successful learning experience.',
+    link: { href: 'eliinova.com', label: 'eliinova.com' },
+    logo: logoCbmSkills,
+  },
+  {
     name: 'Greenline',
     description:
       'Started as a napkin sketch idea that developed into a fully integrated cloud based POS & management system for Dry Cleaners.',
@@ -41,7 +48,7 @@ const projects = [
   },
   {
     name: 'JWI Enterprises',
-    description: 'A custom contact & order management system, tracking millions of USD. Built with Laravel & Vue for scalability',
+    description: 'A custom contact & order management system, tracking millions of USD. Built with Laravel & Vue for scalability.',
     link: { href: 'jwienterprises.com', label: 'jwienterprises.com' },
     logo: logoJwi,
   },
