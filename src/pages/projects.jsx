@@ -35,7 +35,7 @@ const projects = [
   },
   {
     name: 'CBM Skills',
-    description: 'Helping each student master math & reading. High-quality educational content ensures a successful learning experience.',
+    description: 'Helping each student master math & reading through high-quality educational content, ensuring a successful learning experience.',
     link: { href: 'cbmskills.com', label: 'cbmskills.com' },
     logo: logoCbmSkills,
   },
