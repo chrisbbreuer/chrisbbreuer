@@ -6,6 +6,7 @@ import { SimpleLayout } from '@/components/SimpleLayout'
 import logoStacks from '@/images/logos/stacks.jpeg'
 import logoMeema from '@/images/logos/meema.jpeg'
 import logoGreenline from '@/images/logos/greenline.jpg'
+import logoDataSix from '@/images/logos/datasix.png'
 import logoOw3 from '@/images/logos/ow3.png'
 
 const projects = [
@@ -34,8 +35,14 @@ const projects = [
     name: 'Greenline',
     description:
       'Started as a napkin sketch idea that developed into a fully integrated cloud based POS & management system for Dry Cleaners.',
-    link: { href: 'eliinova.com', label: 'github.com/eliinova' },
+    link: { href: 'eliinova.com', label: 'eliinova.com' },
     logo: logoGreenline,
+  },
+  {
+    name: 'DataSix',
+    description: 'A big data analytics tool to see Facebook advertising costs and insights across your market—before you buy.',
+    link: { href: 'datasix.com', label: 'datasix.com' },
+    logo: logoDataSix,
   },
 ]
 
