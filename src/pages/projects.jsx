@@ -8,6 +8,7 @@ import logoMeema from '@/images/logos/meema.jpeg'
 import logoGreenline from '@/images/logos/greenline.jpg'
 import logoDataSix from '@/images/logos/datasix.png'
 import logoOw3 from '@/images/logos/ow3.png'
+import logoJwi from '@/images/logos/jwi.svg'
 
 const projects = [
   {
@@ -37,6 +38,12 @@ const projects = [
       'Started as a napkin sketch idea that developed into a fully integrated cloud based POS & management system for Dry Cleaners.',
     link: { href: 'eliinova.com', label: 'eliinova.com' },
     logo: logoGreenline,
+  },
+  {
+    name: 'JWI Enterprises',
+    description: 'A custom contact & order management system, tracking millions of USD. Built with Laravel & Vue for scalability',
+    link: { href: 'jwienterprises.com', label: 'jwienterprises.com' },
+    logo: logoJwi,
   },
   {
     name: 'DataSix',

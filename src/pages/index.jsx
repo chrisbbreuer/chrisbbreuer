@@ -22,7 +22,7 @@ import logoCion from '@/images/logos/cion.png'
 import logoBixolon from '@/images/logos/bixolon.png'
 import logoUofO from '@/images/logos/uofo.png'
 import logoGirlgaze from '@/images/logos/girlgaze.png'
-import logoJwi from '@/images/logos/jwi.svg'
+import logoUpwork from '@/images/logos/upwork.ico'
 import logoOw3 from '@/images/logos/ow3.png'
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
@@ -225,12 +225,12 @@ function Resume() {
       },
     },
     {
-      company: 'JWI, Inc.',
-      title: 'Consultant',
-      logo: logoJwi,
-      start: '2018',
+      company: 'Freelancing',
+      title: 'Upwork, et al.',
+      logo: logoUpwork,
+      start: '2012',
       end: {
-        label: '2022',
+        label: '2018',
         dateTime: new Date().getFullYear(),
       },
     },
