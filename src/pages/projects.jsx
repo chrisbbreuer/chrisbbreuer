@@ -36,7 +36,7 @@ const projects = [
   {
     name: 'CBM Skills',
     description: 'Helping each student master math & reading. High-quality educational content ensures a successful learning experience.',
-    link: { href: 'eliinova.com', label: 'eliinova.com' },
+    link: { href: 'cbmskills.com', label: 'cbmskills.com' },
     logo: logoCbmSkills,
   },
   {
