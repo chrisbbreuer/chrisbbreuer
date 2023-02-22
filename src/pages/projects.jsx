@@ -5,6 +5,7 @@ import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
 import logoStacks from '@/images/logos/stacks.jpeg'
 import logoMeema from '@/images/logos/meema.jpeg'
+import logoGreenline from '@/images/logos/greenline.jpg'
 import logoOw3 from '@/images/logos/ow3.png'
 
 const projects = [
@@ -28,6 +29,13 @@ const projects = [
       'Media Management as a Service. The easy way to manage, distribute and scale your media. Soon becoming a Stack.',
     link: { href: 'github.com/meemalabs', label: 'github.com/meemalabs' },
     logo: logoMeema,
+  },
+  {
+    name: 'Greenline',
+    description:
+      'Started as a napkin sketch idea that developed into a fully integrated cloud based POS & management system for Dry Cleaners.',
+    link: { href: 'eliinova.com', label: 'github.com/eliinova' },
+    logo: logoGreenline,
   },
 ]
 
