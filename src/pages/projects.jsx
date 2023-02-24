@@ -30,32 +30,32 @@ const projects = [
     name: 'Meema',
     description:
       'Media Management as a Service. The easy way to manage, distribute and scale your media. Soon becoming a Stack.',
-    link: { href: 'github.com/meemalabs', label: 'github.com/meemalabs' },
+    link: { href: 'https://github.com/meemalabs', label: 'github.com/meemalabs' },
     logo: logoMeema,
   },
   {
     name: 'CBM Skills',
     description: 'Helping each student master math & reading through high-quality educational content, ensuring a successful learning experience.',
-    link: { href: 'cbmskills.com', label: 'cbmskills.com' },
+    link: { href: 'https://cbmskills.com', label: 'cbmskills.com' },
     logo: logoCbmSkills,
   },
   {
     name: 'Greenline',
     description:
       'Started as a napkin sketch idea that developed into a fully integrated cloud based POS & management system for Dry Cleaners.',
-    link: { href: 'eliinova.com', label: 'eliinova.com' },
+    link: { href: 'https://eliinova.com', label: 'eliinova.com' },
     logo: logoGreenline,
   },
   {
     name: 'JWI Enterprises',
     description: 'A custom contact & order management system, tracking millions of USD. Built with Laravel & Vue for scalability.',
-    link: { href: 'jwienterprises.com', label: 'jwienterprises.com' },
+    link: { href: 'https://jwienterprises.com', label: 'jwienterprises.com' },
     logo: logoJwi,
   },
   {
     name: 'DataSix',
     description: 'A big data analytics tool to see Facebook advertising costs and insights across your market—before you buy.',
-    link: { href: 'datasix.com', label: 'datasix.com' },
+    link: { href: 'https://datasix.com', label: 'datasix.com' },
     logo: logoDataSix,
   },
 ]
