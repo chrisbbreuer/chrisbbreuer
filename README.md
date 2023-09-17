@@ -2,13 +2,13 @@
 
 ## Hi, everyone! 👋🏼
 
-My name is Chris. I am 29 years old & a passionate open-source developer who loves to travel the world, learn about new cultures & eat good food. When I am not traveling the world, I live in Los Angeles, CA.
+My name is Chris. I am 30 years old & a passionate open-source developer who loves to travel the world, learn about new cultures & eat good food. When I am not traveling the world, I live in Los Angeles, CA.
 
 ### A few highlights
 
-- [Stacks](https://github.com/stacksjs/stacks) - A full-stack framework powered by Vite. _Deeply inspired by Laravel & Vue.js._
-- [Open Web](https://github.com/ow3org) - A decentralized community that develops progressive, open web standards, and stacks.
-- [Meema](https://github.com/meemalabs) - Media & file management with ease—front & backend
+- [Stacks](https://github.com/stacksjs/stacks) - A modern full-stack framework.
+- [Open Web](https://github.com/ow3org) - An inclusive community that develops progressive, open web standards, and stacks.
+- [Meema](https://github.com/meemalabs) - File & media management with ease—front & backend.
 
 ### Current Focus
 
@@ -22,6 +22,6 @@ Aside from core framework development, these are the stacks we will finish next:
 - [Video](https://github.com/stacksjs/video) (Modern video experience)
 - [Audio](https://github.com/stacksjs/audio) (Modern audio experience)
 
-Connect with me here, on Discord or on Twitter—would love to hear from you!
+Connect with me here, on Discord, or on Twitter—I would love to hear from you!
 
 _Oh, and say hi to [Buddy](https://www.instagram.com/somebuddyspecial/), the partner in crime!_
