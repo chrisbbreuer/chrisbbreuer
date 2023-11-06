@@ -1,4 +1,4 @@
-[![Stand with Ukraine Banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 ## Hi, everyone! 👋🏼
 
@@ -12,15 +12,7 @@ My name is Chris. I am 30 years old & a passionate open-source developer who lov
 
 ### Current Focus
 
-Aside from core framework development, these are the stacks we will finish next:
-
-- [Table](https://github.com/stacksjs/table) (Data tables with ease)
-- [Command Palette](https://github.com/stacksjs/command-palette) (`cmd + k` for the web)
-- [Date Picker](https://github.com/stacksjs/date-picker) (Beautiful, modern date picker)
-- [File Manager](https://github.com/stacksjs/file-manager) (Build your own file manager—like Dropbox or Google Drive)
-- [Image](https://github.com/stacksjs/image) (Modern image experience)
-- [Video](https://github.com/stacksjs/video) (Modern video experience)
-- [Audio](https://github.com/stacksjs/audio) (Modern audio experience)
+_Stacks v1.0_, _Stacks 1.x_ and _Stacks 2.x_.
 
 Connect with me here, on Discord, or on Twitter—I would love to hear from you!
 
