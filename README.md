@@ -11,7 +11,7 @@ My name is Chris. I am 30 years old & a passionate open-source developer who lov
 
 ### Current Focus
 
-_Stacks v1.0_.
+- [_Stacks v1.0_](https://github.com/stacksjs/stacks)
 
 Connect with me here, on Discord, or on Twitter—I would love to hear from you!
 
