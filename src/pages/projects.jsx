@@ -1,9 +1,8 @@
 import Image from 'next/image'
 import Head from 'next/head'
-
 import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
-import logoStacks from '@/images/logos/stacks.jpeg'
+import logoStacks from '@/images/logos/stacks.png'
 import logoMeema from '@/images/logos/meema.jpeg'
 import logoGreenline from '@/images/logos/greenline.jpg'
 import logoDataSix from '@/images/logos/datasix.png'

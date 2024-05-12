@@ -41,14 +41,14 @@ export default function Uses() {
       >
         <div className="space-y-20">
           <ToolsSection title="Workstation">
-            <Tool title="13.3” MacBook M1 (2020)">
+            <Tool title="14” MacBook M3 Pro (2023)">
               I was using an Intel-based MacBook Pro prior to this and the difference
-              was quite stunning. A simple MacBook Air can be just as, if not more,
-              powerful than a relative recent MacBook Pro (prior the M1s).
+              was quite stunning. These days, a MacBook Air running on Apple Silicon is more than powerful
+              enough to run the latest & greatest dev tooling, and that’s great.
             </Tool>
-            <Tool title="LG 27” UltraFine 5K IPS Monitor">
-              Very curios to try the Apple Pro Display XDR next but because
-              of how amazing the LG has been, I’m not in a rush to upgrade.
+            <Tool title="Apple Studio Display">
+              Coming from LG’s 27” UltraFine 5K IPS Monitor, I had pretty high expectations for a display.
+              The Apple Studio Display reached them, and went beyond. Its sleek design is a wonderful bonus!
             </Tool>
             <Tool title="MX Keys for Mac">
               Love the travel time of this keyboard. Feels similar to the MacBooks, but a little more travel.
@@ -79,9 +79,11 @@ export default function Uses() {
                and TablePlus is the best I have used.
                Great software for working with databases.
             </Tool>
-            <Tool title="VS Code">
-              VS Code is an amazing editor, and it’s only getting better.
-              With few extensions & settings, it becomes a full-fledged IDE.
+            <Tool title="Cursor">
+              Cursor, just like VS Code, is an amazing editor that ships with a powerfulAI integration—one that is super easy to use.
+            </Tool>
+            <Tool title="Supermaven">
+              Similar to GitHub Copilot, Supermaven is another AI-powered tool that suggests code snippets incredibly well, and fast.
             </Tool>
           </ToolsSection>
           <ToolsSection title="Design">

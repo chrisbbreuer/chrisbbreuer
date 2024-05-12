@@ -21,7 +21,7 @@ import logoCion from '@/images/logos/cion.png'
 import logoBixolon from '@/images/logos/bixolon.png'
 import logoUofO from '@/images/logos/uofo.png'
 import logoGirlgaze from '@/images/logos/girlgaze.png'
-import logoUpwork from '@/images/logos/upwork.ico'
+import logoStacks from '@/images/logos/stacks.png'
 import logoOw3 from '@/images/logos/ow3.png'
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
@@ -178,8 +178,18 @@ function Newsletter() {
 function Resume() {
   let resume = [
     {
+      company: 'Stacks.js, Inc.',
+      title: 'Founder & CEO',
+      logo: logoStacks,
+      start: '2024',
+      end: {
+        label: 'Present',
+        dateTime: new Date().getFullYear(),
+      },
+    },
+    {
       company: 'Open Web Foundation',
-      title: 'DevRel',
+      title: 'Founding Member',
       logo: logoOw3,
       start: '2022',
       end: {
@@ -192,26 +202,6 @@ function Resume() {
       title: 'Consultant',
       logo: logoBixolon,
       start: '2020',
-      end: {
-        label: 'Present',
-        dateTime: new Date().getFullYear(),
-      },
-    },
-    {
-      company: 'CION',
-      title: 'Founder & CEO',
-      logo: logoCion,
-      start: '2018',
-      end: {
-        label: 'Present',
-        dateTime: new Date().getFullYear(),
-      },
-    },
-    {
-      company: 'Eliinova',
-      title: 'Senior Software Engineer',
-      logo: logoEliinova,
-      start: '2018',
       end: {
         label: 'Present',
         dateTime: new Date().getFullYear(),
@@ -238,12 +228,22 @@ function Resume() {
       },
     },
     {
-      company: 'Freelancing',
-      title: 'Upwork, et al.',
-      logo: logoUpwork,
-      start: '2012',
+      company: 'Eliinova',
+      title: 'Engineering Lead',
+      logo: logoEliinova,
+      start: '2018',
       end: {
-        label: '2018',
+        label: 'Present',
+        dateTime: new Date().getFullYear(),
+      },
+    },
+    {
+      company: 'CION',
+      title: 'Founder & CEO',
+      logo: logoCion,
+      start: '2016',
+      end: {
+        label: 'Present',
         dateTime: new Date().getFullYear(),
       },
     },
@@ -289,10 +289,10 @@ function Resume() {
           </li>
         ))}
       </ol>
-      <Button href="/resume.pdf" variant="secondary" className="group mt-6 w-full" target="_blank">
+      {/* <Button href="/resume.pdf" variant="secondary" className="group mt-6 w-full" target="_blank">
         Download CV
         <ArrowDownIcon className="h-4 w-4 stroke-zinc-400 transition group-active:stroke-zinc-600 dark:group-hover:stroke-zinc-50 dark:group-active:stroke-zinc-50" />
-      </Button>
+      </Button> */}
     </div>
   )
 }
