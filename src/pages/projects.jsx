@@ -14,14 +14,14 @@ const projects = [
   {
     name: 'Open Web',
     description:
-      'At the intersection of web2 ingenuity & web3 mindset, Open Web is a community that develops progressive, open web standards.',
+      'At the intersection of tech & humanity, Open Web is a community that develops progressive, open web standards.',
     link: { href: 'https://ow3.org/', label: 'ow3.org' },
     logo: logoOw3,
   },
   {
     name: 'Stacks',
     description:
-      'A progressive, atomic full-stack framework for artisans. Develop framework-agnostic apps & libraries, faster.',
+      'A progressive, atomic full-stack framework for Web Artisans. Develop framework-agnostic apps, clouds & libraries, faster.',
     link: { href: 'https://stacksjs.dev', label: 'stacksjs.dev' },
     logo: logoStacks,
   },
@@ -47,7 +47,7 @@ const projects = [
   },
   {
     name: 'JWI Enterprises',
-    description: 'A custom contact & order management system, tracking millions of USD. Built with Laravel & Vue for scalability.',
+    description: 'A custom contact & order management system, tracking millions of USD. Built with Laravel & Vue for scalability & maintainability.',
     link: { href: 'https://jwienterprises.com', label: 'jwienterprises.com' },
     logo: logoJwi,
   },
