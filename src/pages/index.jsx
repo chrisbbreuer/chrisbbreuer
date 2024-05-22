@@ -342,7 +342,7 @@ export default function Home({ articles }) {
             Software engineer, founder,<br />and dog lover 🐶
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Chris, a software engineer, educator and entrepreneur based in Playa Vista, CA—also known as Silicon Beach. I’m the founder of <em>Stacks.js</em>, <em>Meema</em> and <em>CION Agency</em>.
+            I’m Chris, a software engineer, educator and entrepreneur based in Playa Vista, CA—also known as Silicon Beach. Founding member of the <em>Open Web Foundation</em>, founder of <em>Stacks.js</em>, <em>Meema</em> & <em>CION Agency</em>.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
