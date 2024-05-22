@@ -22,7 +22,7 @@ const projects = [
     name: 'Stacks',
     description:
       'A progressive, atomic full-stack framework for Web Artisans. Develop framework-agnostic apps, clouds & libraries, faster.',
-    link: { href: 'https://stacksjs.dev', label: 'stacksjs.dev' },
+    link: { href: 'https://stacksjs.org', label: 'stacksjs.org' },
     logo: logoStacks,
   },
   {

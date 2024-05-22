@@ -112,11 +112,11 @@ export default function About() {
                 hi@chrisbreuer.dev
               </SocialLink>
               <SocialLink
-                href="mailto:chris@stacksjs.dev"
+                href="mailto:chris@stacksjs.org"
                 icon={MailIcon}
                 className="mt-4"
               >
-                chris@stacksjs.dev
+                chris@stacksjs.org
               </SocialLink>
             </ul>
           </div>
