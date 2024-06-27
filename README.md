@@ -8,6 +8,7 @@ My name is Chris. I am 31 years old & a passionate open-source developer who lov
 
 - [Stacks](https://github.com/stacksjs/stacks) - A modern full-stack framework.
 - [Open Web](https://github.com/ow3org) - An inclusive community that develops progressive, open web standards, and stacks.
+- [dotfiles](https://github.com/chrisbbreuer/dotfiles) - My personal dotfiles — get started with your own.
 
 ### Current Focus
 
