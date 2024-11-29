@@ -5,6 +5,7 @@ import clsx from 'clsx'
 
 import { Container } from '@/components/Container'
 import {
+  BlueskyIcon,
   TwitterIcon,
   InstagramIcon,
   GitHubIcon,
@@ -61,47 +62,75 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              I’m Chris Breuer. I live in Silicon Beach where I design the future.
+              I’m Chris Breuer. I live in Silicon Beach where I design the
+              future.
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                Ever since I was young, I’ve loved to explore, learn, and create, especially
-                while using tech. When I was 12-years-old, I wrote my first SaaS app, and
-                to my surprise, it turned out quite successful and brought in several
-                hundreds of dollars monthly via Google AdSense.
+                Ever since I was young, I’ve loved to explore, learn, and
+                create, especially while using tech. When I was 12-years-old, I
+                wrote my first SaaS app, and to my surprise, it turned out quite
+                successful and brought in several hundreds of dollars monthly
+                via Google AdSense.
               </p>
               <p>
-                The only thing I loved more than computers as a kid was sports and the outdoors.
-                Almost 20 years later, not much has changed and going on hikes with my dogs and
-                playing soccer are still some of the few things that peel me away from my desk. 
+                The only thing I loved more than computers as a kid was sports
+                and the outdoors. Almost 20 years later, not much has changed
+                and going on hikes with my dogs and playing soccer are still
+                some of the few things that peel me away from my desk.
               </p>
               <p>
-                I spent the last 10+ years working on personal & private projects,
-                ranging from small apps to large enterprise services—which caused my obsession
-                with building scalable & serverless systems. In fact, I dove deep into
-                &ldquo;data storage & transfer&rdquo; and &rdquo;distributed & decentralized compute&ldquo;
-                techniques these past years. And this was the reason I started working on Stacks.
+                I spent the last 10+ years working on personal & private
+                projects, ranging from small apps to large enterprise
+                services—which caused my obsession with building scalable &
+                serverless systems. In fact, I dove deep into &ldquo;data
+                storage & transfer&rdquo; and &rdquo;distributed & decentralized
+                compute&ldquo; techniques these past years. And this was the
+                reason I started working on Stacks.
               </p>
               <p>
-                Today, I’m the founder of Open Web & the Stacks framework. It’s exciting to work
-                on the future of web technologies and application development, and I can’t wait
-                to share our upcoming v1.0 release. Until then, follow along our journey on
-                GitHub & Twitter to get the latest and greatest real-time updates.
+                Today, I’m the founder of Open Web & the Stacks framework. It’s
+                exciting to work on the future of web technologies and
+                application development, and I can’t wait to share our upcoming
+                v1.0 release. Until then, follow along our journey on GitHub &
+                Twitter to get the latest and greatest real-time updates.
               </p>
             </div>
           </div>
           <div className="lg:pl-20">
             <ul role="list">
-              <SocialLink href="https://twitter.com/chrisbbreuer" icon={TwitterIcon}>
+              <SocialLink
+                href="https://bsky.app/profile/chrisbreuer.dev"
+                icon={BlueskyIcon}
+              >
+                Follow on Bluesky
+              </SocialLink>
+              <SocialLink
+                href="https://twitter.com/stacksjs"
+                icon={TwitterIcon}
+                className="mt-4"
+              >
                 Follow on Twitter
               </SocialLink>
-              <SocialLink href="https://github.com/chrisbbreuer" icon={GitHubIcon} className="mt-4">
+              <SocialLink
+                href="https://github.com/chrisbbreuer"
+                icon={GitHubIcon}
+                className="mt-4"
+              >
                 Follow on GitHub
               </SocialLink>
-              <SocialLink href="https://www.linkedin.com/in/%F0%9F%8C%B1-chris-breuer-33231765/" icon={LinkedInIcon} className="mt-4">
+              <SocialLink
+                href="https://www.linkedin.com/in/%F0%9F%8C%B1-chris-breuer-33231765/"
+                icon={LinkedInIcon}
+                className="mt-4"
+              >
                 Follow on LinkedIn
               </SocialLink>
-              <SocialLink href="https://www.instagram.com/somebuddyspecial/ " icon={InstagramIcon} className="mt-4">
+              <SocialLink
+                href="https://www.instagram.com/somebuddyspecial/ "
+                icon={InstagramIcon}
+                className="mt-4"
+              >
                 Follow on Instagram
               </SocialLink>
               <SocialLink
