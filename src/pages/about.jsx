@@ -84,7 +84,7 @@ export default function About() {
                 services—which caused my obsession with building scalable &
                 serverless systems. In fact, I dove deep into &ldquo;data
                 storage & transfer&rdquo; and &rdquo;distributed & decentralized
-                compute&ldquo; techniques these past years. And this was the
+                compute&ldquo; techniques these past years. And this was a core
                 reason I started working on Stacks.
               </p>
               <p>
