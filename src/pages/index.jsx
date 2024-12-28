@@ -17,6 +17,8 @@ import image2 from '@/images/photos/image-2.jpeg'
 import image3 from '@/images/photos/image-3.jpeg'
 import image4 from '@/images/photos/image-4.jpeg'
 import image5 from '@/images/photos/image-5.jpeg'
+import image6 from '@/images/photos/image-6.jpeg'
+import image7 from '@/images/photos/image-7.jpeg'
 import logoEliinova from '@/images/logos/eliinova.png'
 import logoCion from '@/images/logos/cion.png'
 import logoBixolon from '@/images/logos/bixolon.png'
@@ -26,6 +28,7 @@ import logoStacks from '@/images/logos/stacks.png'
 import logoOw3 from '@/images/logos/ow3.png'
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
+import { useMemo } from 'react'
 
 function MailIcon(props) {
   return (
@@ -332,10 +335,19 @@ function Resume() {
 function Photos() {
   let rotations = ['rotate-2', '-rotate-2', 'rotate-2', 'rotate-2', '-rotate-2']
 
+  // Create array of all images and randomly select 5
+  const allImages = useMemo(() => {
+    const images = [image1, image2, image3, image4, image5, image6, image7]
+    // Shuffle array and take first 5
+    return images
+      .sort(() => Math.random() - 0.5)
+      .slice(0, 5)
+  }, [])
+
   return (
     <div className="mt-16 sm:mt-20">
       <div className="-my-4 flex justify-center gap-5 overflow-hidden py-4 sm:gap-8">
-        {[image1, image2, image3, image4, image5].map((image, imageIndex) => (
+        {allImages.map((image, imageIndex) => (
           <div
             key={image.src}
             className={clsx(
