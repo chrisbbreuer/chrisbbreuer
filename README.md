@@ -24,4 +24,4 @@ My name is Chris. I am 31 years old & a passionate open-source developer who lov
 
 Connect with me here, on Discord, or on Twitter—would love to hear from you!
 
-_Oh, and say hi to our CLI inspiration, [Buddy](https://www.instagram.com/somebuddyspecial/)—the doggie & partner in crime._
+_Oh, and say hi to our mascot & CLI inspiration, [Buddy](https://www.instagram.com/somebuddyspecial/)—the doggie & partner in crime._
