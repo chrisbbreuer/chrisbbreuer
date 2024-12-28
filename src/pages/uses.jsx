@@ -64,10 +64,8 @@ export default function Uses() {
               GitHub Desktop is my trusty sidekick for most git needs. No shame.
               It’s a great tool to keep your codebase in check, and your commits in line, visually.
             </Tool>
-            <Tool title="iTerm2">
-              Jeffrey Way recommended it years ago during one of the Laracasts
-              videos I was watching. Stuck with it ever since, great terminal.
-              <em> Currently exploring Warp.</em>
+            <Tool title="Ghostty">
+              Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
             </Tool>
             <Tool title="Stacks">
                The Stacks Desktop app is key to my productivity.
@@ -79,8 +77,8 @@ export default function Uses() {
                and TablePlus is the best I have used.
                Great software for working with databases.
             </Tool>
-            <Tool title="Cursor">
-              Cursor, just like VS Code, is an amazing editor that ships with a powerfulAI integration—one that is super easy to use.
+            <Tool title="VS Code & Cursor">
+              VS Code is an amazing code editor. Cursor is great for some AI tasks.
             </Tool>
             <Tool title="Supermaven">
               Similar to GitHub Copilot, Supermaven is another AI-powered tool that suggests code snippets incredibly well, and fast.
