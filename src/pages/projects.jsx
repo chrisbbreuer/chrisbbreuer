@@ -52,19 +52,19 @@ const projects = [
   {
     name: 'bunfig',
     description: 'Lightweight & smart Bun configuration loader.',
-    link: { href: 'https://localtunnel.sh', label: 'localtunnel.sh' },
+    link: { href: 'https://bunfig.netlify.app', label: 'bunfig' },
     logo: logoStacks,
   },
   {
     name: 'ts-collect',
     description: 'Powerful, yet lightweight, Laravel-like Collections written for TypeScript.',
-    link: { href: 'https://localtunnel.sh', label: 'localtunnel.sh' },
+    link: { href: 'https://ts-collect.netlify.app', label: 'ts-collect' },
     logo: logoStacks,
   },
   {
     name: 'ts-spreadsheets',
     description: 'Easily generate spreadsheets, like CSVs and Excel files. For TypeScript.',
-    link: { href: 'https://localtunnel.sh', label: 'localtunnel.sh' },
+    link: { href: 'https://ts-spreadsheets.netlify.app', label: 'ts-spreadsheets' },
     logo: logoStacks,
   },
   {
@@ -125,11 +125,11 @@ export default function Projects() {
         <title>Projects - Chris Breuer</title>
         <meta
           name="description"
-          content="Things I’ve made trying to put my dent in the universe."
+          content="Things I’ve made trying to put my dent out there."
         />
       </Head>
       <SimpleLayout
-        title="Things I’ve made trying to put my dent in the universe."
+        title="Things I’ve made trying to put my dent out there."
         intro="I’ve worked on tons of little projects over the years but these are the ones that I’m most proud of. Many of them are open-source, so if you see something that piques your interest, check out the code and contribute if you have ideas for how it can be improved."
       >
         <ul
