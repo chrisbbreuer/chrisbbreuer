@@ -366,7 +366,7 @@ export default function Home({ articles }) {
         </title>
         <meta
           name="description"
-          content="I’m Chris, a software engineer, educator and entrepreneur based in Playa Vista, CA—also known as Silicon Beach. I’m the founder of Stacks.js, Meema and CION Agency."
+          content="I’m Chris, a software engineer, educator and entrepreneur based in Playa Vista, CA. I’m the founder of Stacks.js, Meema and CION Agency."
         />
       </Head>
       <Container className="mt-9">
@@ -378,20 +378,14 @@ export default function Home({ articles }) {
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
             I’m Chris, a software engineer, educator and entrepreneur based in
-            Playa Vista, CA—also known as Silicon Beach. Founding member of the{' '}
-            <em>Open Web Foundation</em>, and founder of <em>Stacks.js</em>,{' '}
-            <em>Meema</em> & <em>CION Agency</em>.
+            Playa Vista, CA—also known as Silicon Beach. Founder & Builder at <em>Stacks.js</em>, and Founding member of the{' '}
+            <em>Open Web Foundation</em>.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
               href="https://bsky.app/profile/chrisbreuer.dev"
-              aria-label="Follow on Twitter"
+              aria-label="Follow on Bluesky"
               icon={BlueskyIcon}
-            />
-            <SocialLink
-              href="https://twitter.com/chrisbbreuer"
-              aria-label="Follow on Twitter"
-              icon={TwitterIcon}
             />
             <SocialLink
               href="https://github.com/chrisbbreuer"
