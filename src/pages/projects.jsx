@@ -14,15 +14,57 @@ const projects = [
   {
     name: 'Open Web',
     description:
-      'At the intersection of tech & humanity, Open Web is a community that develops progressive, open web standards.',
+      'At the intersection of tech & humanity, a community that builds towards a better future.',
     link: { href: 'https://ow3.org/', label: 'ow3.org' },
     logo: logoOw3,
   },
   {
     name: 'Stacks',
     description:
-      'A progressive, atomic full-stack framework for Web Artisans. Develop framework-agnostic apps, clouds & libraries, faster.',
+      'For full-stack Web Artisans. Develop framework-agnostic apps, clouds & libraries, faster.',
     link: { href: 'https://stacksjs.org', label: 'stacksjs.org' },
+    logo: logoStacks,
+  },
+  {
+    name: 'rpx',
+    description: 'A modern, fast reverse proxy. For a better local development environment.',
+    link: { href: 'https://reverse-proxy.sh', label: 'reverse-proxy.sh' },
+    logo: logoStacks,
+  },
+  {
+    name: 'dtsx',
+    description: 'Extremely fast & configurable DTS emitter.',
+    link: { href: 'https://github.com/stacksjs/dtsx', label: 'dtsx.sh' },
+    logo: logoStacks,
+  },
+  {
+    name: 'tlsx',
+    description: 'A TLS library with automation. HTTPS by default through a light-weight library. Similar to mkcert.',
+    link: { href: 'https://tlsx.sh', label: 'tlsx.sh' },
+    logo: logoStacks,
+  },
+  {
+    name: 'localtunnels',
+    description: 'A simple and smart tunneling alternative. Without or with self-hosting.',
+    link: { href: 'https://localtunnel.sh', label: 'localtunnel.sh' },
+    logo: logoStacks,
+  },
+  {
+    name: 'bunfig',
+    description: 'Lightweight & smart Bun configuration loader.',
+    link: { href: 'https://localtunnel.sh', label: 'localtunnel.sh' },
+    logo: logoStacks,
+  },
+  {
+    name: 'ts-collect',
+    description: 'Powerful, yet lightweight, Laravel-like Collections written for TypeScript.',
+    link: { href: 'https://localtunnel.sh', label: 'localtunnel.sh' },
+    logo: logoStacks,
+  },
+  {
+    name: 'vite-plugin-local',
+    description: 'Pretty development URLs, and HTTPS—in a zero config, zero setup way.',
+    link: { href: 'https://vite-plugin-local.netlify.app', label: 'vite-plugin-local' },
     logo: logoStacks,
   },
   {
@@ -42,19 +84,19 @@ const projects = [
     name: 'Greenline',
     description:
       'Started as a napkin sketch idea that developed into a fully integrated cloud based POS & management system for Dry Cleaners.',
-    link: { href: 'https://eliinova.com', label: 'eliinova.com' },
+    link: { href: 'https://greenlinedcs.com', label: 'greenlinedcs.com' },
     logo: logoGreenline,
   },
   {
     name: 'JWI Enterprises',
-    description: 'A custom contact & order management system, tracking millions of USD. Built with Laravel & Vue for scalability & maintainability.',
+    description: 'A custom contact & order management system, tracking millions of USD.',
     link: { href: 'https://jwienterprises.com', label: 'jwienterprises.com' },
     logo: logoJwi,
   },
   {
     name: 'DataSix',
     description: 'A big data analytics tool to see Facebook advertising costs and insights across your market—before you buy.',
-    link: { href: 'https://datasix.com', label: 'datasix.com' },
+    link: { href: 'https://mutesix.com/datasix-dashboard', label: 'DataSix Dashboard' },
     logo: logoDataSix,
   },
 ]
