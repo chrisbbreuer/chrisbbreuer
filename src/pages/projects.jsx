@@ -62,6 +62,12 @@ const projects = [
     logo: logoStacks,
   },
   {
+    name: 'ts-spreadsheets',
+    description: 'Easily generate spreadsheets, like CSVs and Excel files. For TypeScript.',
+    link: { href: 'https://localtunnel.sh', label: 'localtunnel.sh' },
+    logo: logoStacks,
+  },
+  {
     name: 'vite-plugin-local',
     description: 'Pretty development URLs, and HTTPS—in a zero config, zero setup way.',
     link: { href: 'https://vite-plugin-local.netlify.app', label: 'vite-plugin-local' },
