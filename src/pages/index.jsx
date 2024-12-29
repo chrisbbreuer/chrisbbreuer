@@ -233,7 +233,7 @@ function Resume() {
       logo: logoBixolon,
       start: '2020',
       end: {
-        label: 'Present',
+        label: '2024',
         dateTime: new Date().getFullYear(),
       },
     },
