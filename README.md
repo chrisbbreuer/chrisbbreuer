@@ -7,6 +7,7 @@ My name is Chris. I am 31 years old & a passionate open-source developer who lov
 ### A few highlights
 
 - [Stacks](https://github.com/stacksjs/stacks) - A modern full-stack framework.
+- [Buddy](https://github.com/stacksjs/buddy) - The Stacks CLI.
 - [Open Web](https://github.com/ow3org) - An inclusive community that develops progressive, open web standards, and stacks.
 - [dtsx](https://github.com/stacksjs/dtsx) - Extremely fast & configurable DTS emitter.
 - [qrx](https://github.com/stacksjs/qrx) - QR & Bar Code generating & reading. _Lightweight & powerful._
