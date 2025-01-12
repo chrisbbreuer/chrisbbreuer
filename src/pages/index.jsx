@@ -209,7 +209,7 @@ function Resume() {
   let resume = [
     {
       company: 'Stacks.js, Inc.',
-      title: 'Founder & CEO',
+      title: 'Founder',
       logo: logoStacks,
       start: '2024',
       end: {
@@ -269,7 +269,7 @@ function Resume() {
     },
     {
       company: 'CION',
-      title: 'Founder & CEO',
+      title: 'Founder',
       logo: logoCion,
       start: '2016',
       end: {
