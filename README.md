@@ -11,7 +11,7 @@ My name is Chris. I am 31 years old & a passionate open-source developer who lov
 - [Open Web](https://github.com/ow3org) - An inclusive community that develops progressive, open web standards, and stacks.
 - [dtsx](https://github.com/stacksjs/dtsx) - Extremely fast & configurable DTS emitter.
 - [dnsx](https://github.com/stacksjs/dnsx) - A command-line & library DNS client. _Like dig & dog, but for TypeScript._
-- [httpsx](https://github.com/stacksjs/httpsx) - A modern, user-friendly command-line & library HTTP client _“for the API era.”_
+- [httx](https://github.com/stacksjs/httx) - A modern, user-friendly command-line & library HTTP client _“for the API era.”_
 - [qrx](https://github.com/stacksjs/qrx) - QR & Bar Code generating & reading. _Lightweight & powerful._
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
 - [rpx](https://github.com/stacksjs/rpx) - A modern, fast reverse proxy. _For a better local development environment._
