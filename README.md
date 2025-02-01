@@ -10,6 +10,7 @@ My name is Chris. I am 31 years old & a passionate open-source developer who lov
 - [Buddy](https://github.com/stacksjs/buddy) - The Stacks CLI.
 - [Open Web](https://github.com/ow3org) - An inclusive community that develops progressive, open web standards, and stacks.
 - [audiox](https://github.com/stacksjs/audiox) - Powerful audio processing for your workflows.
+- [clarity](https://github.com/stacksjs/clarity) - Modern debugging & logging for browser & server.
 - [dtsx](https://github.com/stacksjs/dtsx) - Extremely fast & configurable DTS emitter.
 - [dnsx](https://github.com/stacksjs/dnsx) - A command-line & library DNS client. _Like dig & dog, but for TypeScript._
 - [httx](https://github.com/stacksjs/httx) - A modern, user-friendly command-line & library HTTP client _“for the API era.”_
