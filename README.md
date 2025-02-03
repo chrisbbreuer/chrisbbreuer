@@ -25,6 +25,8 @@ My name is Chris. I am 31 years old & a passionate open-source developer who lov
 - [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
 - [bunfig](https://github.com/stacksjs/bunfig) - Lightweight & smart Bun configuration loader.
 - [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports) - Auto Imports support for Bun.
+- [bun-plugin-dtsx](https://github.com/stacksjs/bun-plugin-dtsx) - Automatically generate your TypeScript DTS files, using Bun's bundler.
+- [bun-plugin-unocss](https://github.com/stacksjs/bun-plugin-unocss) - "Instant On-demand Atomic CSS Engine" - UnoCSS
 - [dotfiles](https://github.com/chrisbbreuer/dotfiles) - My personal dotfiles.
 
 ### Current Focus
