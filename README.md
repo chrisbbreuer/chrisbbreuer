@@ -21,12 +21,15 @@ My name is Chris. I am 31 years old & a passionate open-source developer who lov
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
 - [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
+- [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF 89a encoder & decoder.
+- [ts-jpeg](https://github.com/stacksjs/ts-jpeg) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
-- [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
+- [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files. ts-ndarray
 - [bunfig](https://github.com/stacksjs/bunfig) - Lightweight & smart Bun configuration loader.
+- [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
 - [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports) - Auto Imports support for Bun.
 - [bun-plugin-dtsx](https://github.com/stacksjs/bun-plugin-dtsx) - Automatically generate your TypeScript DTS files, using Bun's bundler.
-- [bun-plugin-unocss](https://github.com/stacksjs/bun-plugin-unocss) - "Instant On-demand Atomic CSS Engine" - UnoCSS
+- [bun-plugin-unocss](https://github.com/stacksjs/bun-plugin-unocss) - “Instant On-demand Atomic CSS Engine” - UnoCSS
 - [vite-plugin-local](https://github.com/stacksjs/vite-plugin-local) - Pretty development URLs, and HTTPS. _Zero config, zero setup._
 - [dotfiles](https://github.com/chrisbbreuer/dotfiles) - My personal dotfiles.
 
