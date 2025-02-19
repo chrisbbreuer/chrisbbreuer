@@ -47,35 +47,33 @@ export default function Uses() {
               enough to run the latest & greatest dev tooling, and that’s great.
             </Tool>
             <Tool title="Apple Studio Display">
-              Coming from LG’s 27” UltraFine 5K IPS Monitor, I had pretty high expectations for a display.
-              The Apple Studio Display reached them, and went beyond. Its sleek design is a wonderful bonus!
+              Coming from LG’s 27” UltraFine 5K IPS Monitor, I have enjoyed the transition to the Apple Studio Display.
             </Tool>
             <Tool title="MX Keys for Mac">
               Love the travel time of this keyboard. Feels similar to the MacBooks, but a little more travel.
-              It’s designed to work seamlessly with Macs & iPads. A pretty decent keyboard for developers.
+              It’s designed to work seamlessly with Macs & iPads. A pretty decent keyboard for my needs.
             </Tool>
             <Tool title="MX Master 3S">
-              I’ve been using the MX Master 3 for a few years now and it’s been great. The MX Master 3S feels similar, 
+              I was using the MX Master 3 for a few years now and it’s always been great. The MX Master 3S feels similar, 
               with a few minor improvements, like the clicks. The scroll wheel is great as always!
             </Tool>
           </ToolsSection>
           <ToolsSection title="Development tools">
             <Tool title="GitHub Desktop">
               GitHub Desktop is my trusty sidekick for most git needs. No shame.
-              It’s a great tool to keep your codebase in check, and your commits in line, visually.
             </Tool>
             <Tool title="Ghostty">
               Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
             </Tool>
             <Tool title="Stacks">
-               The Stacks Desktop app is key to my productivity.
+               The Stacks Dashboard app is key to my productivity.
                It supercharges my local development experience,
-               and automates management of cloud resources.
+               and automates management of all my resources.
             </Tool>
             <Tool title="TablePlus">
                Over the years, I have used many database tools,
-               and TablePlus is the best I have used.
-               Great software for working with databases.
+               and TablePlus is the one that sticked.
+               Great tool for working with databases.
             </Tool>
             <Tool title="VS Code & Cursor">
               VS Code is an amazing code editor. Cursor is great for some AI tasks.
@@ -91,14 +89,18 @@ export default function Uses() {
             </Tool>
           </ToolsSection>
           <ToolsSection title="Productivity">
+            <Tool title="1Password">
+              Go-to password manager up until now.
+            </Tool>
+            <Tool title="Muzzle">
+              When in meetings, Muzzle automatically blocks incoming notifications.
+            </Tool>
             <Tool title="Raycast">
               With a pretty UI, Raycast makes it simple, fast and delightful to control my tools.
-              I love the fact I can assign custom keyboard shortcuts to anything.
+              I love assigning custom keyboard shortcuts to anything I use frequently.
             </Tool>
             <Tool title="SavvyCal">
-              Great tool for scheduling meetings while protecting my calendar
-              and making sure I still have lots of time for deep work during the
-              week.
+              Great tool for scheduling meetings while protecting my calendar.
             </Tool>
           </ToolsSection>
         </div>
