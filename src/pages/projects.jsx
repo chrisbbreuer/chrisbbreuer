@@ -12,73 +12,40 @@ import logoCbmSkills from '@/images/logos/cbm.svg'
 
 const projects = [
   {
-    name: 'Open Web',
-    description:
-      'At the intersection of tech & humanity, a community that builds towards a better future.',
-    link: { href: 'https://ow3.org/', label: 'ow3.org' },
-    logo: logoOw3,
-  },
-  {
-    name: 'Stacks',
-    description:
-      'For full-stack Web Artisans. Develop framework-agnostic apps, clouds & libraries, faster.',
-    link: { href: 'https://stacksjs.org', label: 'stacksjs.org' },
+    name: 'audiox',
+    description: 'Powerful audio processing for your workflows.',
+    link: { href: 'https://github.com/stacksjs/audiox', label: 'github.com/stacksjs/audiox' },
     logo: logoStacks,
   },
   {
-    name: 'rpx',
-    description: 'A modern, fast reverse proxy. For a better local development environment.',
-    link: { href: 'https://reverse-proxy.sh', label: 'reverse-proxy.sh' },
+    name: 'bun-git-hooks',
+    description: 'A simple git hooks manager for all-sized Bun projects.',
+    link: { href: 'https://github.com/stacksjs/bun-git-hooks', label: 'github.com/stacksjs/bun-git-hooks' },
     logo: logoStacks,
   },
   {
-    name: 'dtsx',
-    description: 'Extremely fast & configurable DTS emitter.',
-    link: { href: 'https://github.com/stacksjs/dtsx', label: 'dtsx.sh' },
+    name: 'bun-plugin-auto-imports',
+    description: 'Auto Imports support for Bun.',
+    link: { href: 'https://github.com/stacksjs/bun-plugin-auto-imports', label: 'github.com/stacksjs/bun-plugin-auto-imports' },
     logo: logoStacks,
   },
   {
-    name: 'tlsx',
-    description: 'A TLS library with automation. HTTPS by default through a light-weight library. Similar to mkcert.',
-    link: { href: 'https://tlsx.sh', label: 'tlsx.sh' },
+    name: 'bun-plugin-dtsx',
+    description: "Automatically generate your TypeScript DTS files, using Bun's bundler.",
+    link: { href: 'https://github.com/stacksjs/bun-plugin-dtsx', label: 'github.com/stacksjs/bun-plugin-dtsx' },
     logo: logoStacks,
   },
   {
-    name: 'localtunnels',
-    description: 'A simple and smart tunneling alternative. Without or with self-hosting.',
-    link: { href: 'https://localtunnel.sh', label: 'localtunnel.sh' },
+    name: 'bun-plugin-unocss',
+    description: '"Instant On-demand Atomic CSS Engine" - UnoCSS',
+    link: { href: 'https://github.com/stacksjs/bun-plugin-unocss', label: 'github.com/stacksjs/bun-plugin-unocss' },
     logo: logoStacks,
   },
   {
     name: 'bunfig',
     description: 'Lightweight & smart Bun configuration loader.',
-    link: { href: 'https://bunfig.netlify.app', label: 'bunfig' },
+    link: { href: 'https://github.com/stacksjs/bunfig', label: 'github.com/stacksjs/bunfig' },
     logo: logoStacks,
-  },
-  {
-    name: 'ts-collect',
-    description: 'Powerful, yet lightweight, Laravel-like Collections written for TypeScript.',
-    link: { href: 'https://ts-collect.netlify.app', label: 'ts-collect' },
-    logo: logoStacks,
-  },
-  {
-    name: 'ts-spreadsheets',
-    description: 'Easily generate spreadsheets, like CSVs and Excel files. For TypeScript.',
-    link: { href: 'https://ts-spreadsheets.netlify.app', label: 'ts-spreadsheets' },
-    logo: logoStacks,
-  },
-  {
-    name: 'vite-plugin-local',
-    description: 'Pretty development URLs, and HTTPS—in a zero config, zero setup way.',
-    link: { href: 'https://vite-plugin-local.netlify.app', label: 'vite-plugin-local' },
-    logo: logoStacks,
-  },
-  {
-    name: 'Meema',
-    description:
-      'Media Management as a Service. The easy way to manage, distribute and scale your media. Soon becoming a Stack.',
-    link: { href: 'https://github.com/meemalabs', label: 'github.com/meemalabs' },
-    logo: logoMeema,
   },
   {
     name: 'CBM Skills',
@@ -87,11 +54,52 @@ const projects = [
     logo: logoCbmSkills,
   },
   {
+    name: 'clarity',
+    description: 'Modern debugging & logging for browser & server.',
+    link: { href: 'https://github.com/stacksjs/clarity', label: 'github.com/stacksjs/clarity' },
+    logo: logoStacks,
+  },
+  {
+    name: 'DataSix',
+    description: 'A big data analytics tool to see Facebook advertising costs and insights across your market—before you buy.',
+    link: { href: 'https://mutesix.com/datasix-dashboard', label: 'DataSix Dashboard' },
+    logo: logoDataSix,
+  },
+  {
+    name: 'dnsx',
+    description: 'A command-line & library DNS client. Like dig & dog, but for TypeScript.',
+    link: { href: 'https://github.com/stacksjs/dnsx', label: 'github.com/stacksjs/dnsx' },
+    logo: logoStacks,
+  },
+  {
+    name: 'dtsx',
+    description: 'Extremely fast & configurable DTS emitter.',
+    link: { href: 'https://github.com/stacksjs/dtsx', label: 'github.com/stacksjs/dtsx' },
+    logo: logoStacks,
+  },
+  {
     name: 'Greenline',
-    description:
-      'Started as a napkin sketch idea that developed into a fully integrated cloud based POS & management system for Dry Cleaners.',
+    description: 'Started as a napkin sketch idea that developed into a fully integrated cloud based POS & management system for Dry Cleaners.',
     link: { href: 'https://greenlinedcs.com', label: 'greenlinedcs.com' },
     logo: logoGreenline,
+  },
+  {
+    name: 'httx',
+    description: 'A modern, user-friendly command-line & library HTTP client "for the API era."',
+    link: { href: 'https://github.com/stacksjs/httx', label: 'github.com/stacksjs/httx' },
+    logo: logoStacks,
+  },
+  {
+    name: 'imgx',
+    description: 'Make your images load faster. A better save for the web.',
+    link: { href: 'https://github.com/stacksjs/imgx', label: 'github.com/stacksjs/imgx' },
+    logo: logoStacks,
+  },
+  {
+    name: 'jpgx',
+    description: 'A TypeScript JPEG encoder & decoder for Bun & Node.js.',
+    link: { href: 'https://github.com/stacksjs/jpgx', label: 'github.com/stacksjs/jpgx' },
+    logo: logoStacks,
   },
   {
     name: 'JWI Enterprises',
@@ -100,10 +108,112 @@ const projects = [
     logo: logoJwi,
   },
   {
-    name: 'DataSix',
-    description: 'A big data analytics tool to see Facebook advertising costs and insights across your market—before you buy.',
-    link: { href: 'https://mutesix.com/datasix-dashboard', label: 'DataSix Dashboard' },
-    logo: logoDataSix,
+    name: 'localtunnels',
+    description: 'A simple and smart tunneling alternative. Without or with self-hosting.',
+    link: { href: 'https://github.com/stacksjs/localtunnels', label: 'github.com/stacksjs/localtunnels' },
+    logo: logoStacks,
+  },
+  {
+    name: 'Meema',
+    description: 'Media Management as a Service. The easy way to manage, distribute and scale your media. Soon becoming a Stack.',
+    link: { href: 'https://github.com/meemalabs', label: 'github.com/meemalabs' },
+    logo: logoMeema,
+  },
+  {
+    name: 'Open Web',
+    description: 'At the intersection of tech & humanity, a community that builds towards a better future.',
+    link: { href: 'https://ow3.org/', label: 'ow3.org' },
+    logo: logoOw3,
+  },
+  {
+    name: 'pngx',
+    description: 'Modern PNG encoder & decoder.',
+    link: { href: 'https://github.com/stacksjs/pngx', label: 'github.com/stacksjs/pngx' },
+    logo: logoStacks,
+  },
+  {
+    name: 'post',
+    description: 'The Post. A modern mail server & utilities. Ships with a CLI, library, and UI.',
+    link: { href: 'https://github.com/stacksjs/post', label: 'github.com/stacksjs/post' },
+    logo: logoStacks,
+  },
+  {
+    name: 'qrx',
+    description: 'QR & Bar Code generating & reading. Lightweight & powerful.',
+    link: { href: 'https://github.com/stacksjs/qrx', label: 'github.com/stacksjs/qrx' },
+    logo: logoStacks,
+  },
+  {
+    name: 'rpx',
+    description: 'A modern, fast reverse proxy. For a better local development environment.',
+    link: { href: 'https://github.com/stacksjs/rpx', label: 'github.com/stacksjs/rpx' },
+    logo: logoStacks,
+  },
+  {
+    name: 'Stacks',
+    description: 'For full-stack Web Artisans. Develop framework-agnostic apps, clouds & libraries, faster.',
+    link: { href: 'https://stacksjs.org', label: 'stacksjs.org' },
+    logo: logoStacks,
+  },
+  {
+    name: 'tlsx',
+    description: 'A TLS library with automation & HTTPS by default.',
+    link: { href: 'https://github.com/stacksjs/tlsx', label: 'github.com/stacksjs/tlsx' },
+    logo: logoStacks,
+  },
+  {
+    name: 'ts-avif',
+    description: 'High quality & small file sizes.',
+    link: { href: 'https://github.com/stacksjs/ts-avif', label: 'github.com/stacksjs/ts-avif' },
+    logo: logoStacks,
+  },
+  {
+    name: 'ts-collect',
+    description: 'A powerful, yet lightweight, Laravel-like Collections written for TypeScript.',
+    link: { href: 'https://github.com/stacksjs/ts-collect', label: 'github.com/stacksjs/ts-collect' },
+    logo: logoStacks,
+  },
+  {
+    name: 'ts-gif',
+    description: 'Performant TypeScript implementation of a GIF encoder & decoder.',
+    link: { href: 'https://github.com/stacksjs/ts-gif', label: 'github.com/stacksjs/ts-gif' },
+    logo: logoStacks,
+  },
+  {
+    name: 'ts-ndarray',
+    description: 'Multidimensional arrays for JavaScript & TypeScript.',
+    link: { href: 'https://github.com/stacksjs/ts-ndarray', label: 'github.com/stacksjs/ts-ndarray' },
+    logo: logoStacks,
+  },
+  {
+    name: 'ts-spreadsheets',
+    description: 'Easily generate spreadsheets, like CSVs and Excel files.',
+    link: { href: 'https://github.com/stacksjs/ts-spreadsheets', label: 'github.com/stacksjs/ts-spreadsheets' },
+    logo: logoStacks,
+  },
+  {
+    name: 'ts-svg',
+    description: 'Powerful developer toolkit for working with SVGs.',
+    link: { href: 'https://github.com/stacksjs/ts-svg', label: 'github.com/stacksjs/ts-svg' },
+    logo: logoStacks,
+  },
+  {
+    name: 'ts-webp',
+    description: 'A modern image format for the Web.',
+    link: { href: 'https://github.com/stacksjs/ts-webp', label: 'github.com/stacksjs/ts-webp' },
+    logo: logoStacks,
+  },
+  {
+    name: 'vidx',
+    description: 'Make your videos load faster. A better save for the web.',
+    link: { href: 'https://github.com/stacksjs/vidx', label: 'github.com/stacksjs/vidx' },
+    logo: logoStacks,
+  },
+  {
+    name: 'vite-plugin-local',
+    description: 'Pretty development URLs, and HTTPS. Zero config, zero setup.',
+    link: { href: 'https://github.com/stacksjs/vite-plugin-local', label: 'github.com/stacksjs/vite-plugin-local' },
+    logo: logoStacks,
   },
 ]
 
@@ -125,12 +235,12 @@ export default function Projects() {
         <title>Projects - Chris Breuer</title>
         <meta
           name="description"
-          content="Things I’ve made trying to put my mark out there."
+          content="Things I've made."
         />
       </Head>
       <SimpleLayout
-        title="Things I’ve made trying to put my mark out there."
-        intro="I’ve worked on tons of little projects over the years but these are the ones that I’m most proud of. Many of them are open-source, so if you see something that piques your interest, check out the code and contribute if you have ideas for how it can be improved."
+        title="Things I've made."
+        intro="I've worked on tons of little projects over the years but these are the ones that I'm most proud of. Many of them are open-source, so if you see something that piques your interest, check out the code and contribute if you have ideas for how it can be improved."
       >
         <ul
           role="list"

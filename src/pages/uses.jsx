@@ -41,7 +41,7 @@ export default function Uses() {
       >
         <div className="space-y-20">
           <ToolsSection title="Workstation">
-            <Tool title="14” MacBook M3 Pro (2023)">
+            <Tool title="14” MacBook M3 Pro (Nov 2023)">
               I was using an Intel-based MacBook Pro prior to this and the difference
               was quite stunning. These days, a MacBook Air running on Apple Silicon is more than powerful
               enough to run the latest & greatest dev tooling, and that’s great.

@@ -219,7 +219,7 @@ function Resume() {
     },
     {
       company: 'Open Web Foundation',
-      title: 'Founding Member',
+      title: 'Board Member',
       logo: logoOw3,
       start: '2022',
       end: {
@@ -389,9 +389,8 @@ export default function Home({ articles }) {
             and dog lover 🐶
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Chris, a software engineer, educator and entrepreneur based in
-            Playa Vista, CA—also known as Silicon Beach. Founder & Builder at <em>Stacks.js</em>, and Founding member of the{' '}
-            <em>Open Web Foundation</em>.
+            I’m Chris, a software engineer, educator & entrepreneur based in
+            Playa Vista / Silicon Beach. Stacks Founder and Founding Member of the Open Web Foundation.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
