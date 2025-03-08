@@ -26,6 +26,7 @@ My name is Chris. I am 31 years old & a passionate open-source developer who lov
 - [ts-avif](https://github.com/stacksjs/ts-avif) - High quality & small file sizes.
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
+- [ts-maps](https://github.com/stacksjs/ts-maps) - Modern & lightweightlibrary for creating interactive vector maps.
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
 - [ts-punycode](https://github.com/stacksjs/ts-punycode) - Lightweight Punycode converter. _RFC 3492 & RFC 5891 supported._
 - [ts-security](https://github.com/stacksjs/ts-security) - Performant & lightweight cryptography tooling.
