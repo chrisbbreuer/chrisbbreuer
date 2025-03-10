@@ -25,7 +25,7 @@ My name is Chris. I am 31 years old & a passionate open-source developer who lov
 - [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
 - [ts-avif](https://github.com/stacksjs/ts-avif) - High quality & small file sizes.
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
-- [ts-countries](https://github.com/stacksjs/ts-countries) - Modern & lightweight package for working with country details.
+- [ts-countries](https://github.com/stacksjs/ts-countries) - Modern, lightweight, elegant country data management.
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
 - [ts-maps](https://github.com/stacksjs/ts-maps) - Modern & lightweightlibrary for creating interactive vector maps.
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
