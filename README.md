@@ -37,8 +37,10 @@ My name is Chris. I am 31 years old & a passionate open-source developer who lov
 - [bunfig](https://github.com/stacksjs/bunfig) - Lightweight & smart Bun configuration loader.
 - [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
 - [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports) - Auto Imports support for Bun.
+- [bun-plugin-dotenvx](https://github.com/stacksjs/bun-plugin-dotenvx) - A Bun plugin to seamlessly work with with dotenvx.
 - [bun-plugin-dtsx](https://github.com/stacksjs/bun-plugin-dtsx) - Automatically generate your TypeScript DTS files, using Bun's bundler.
 - [bun-plugin-unocss](https://github.com/stacksjs/bun-plugin-unocss) - “Instant On-demand Atomic CSS Engine” _- UnoCSS_
+- [vite-plugin-dotenvx](https://github.com/stacksjs/vite-plugin-dotenvx) - A Vite plugin to seamlessly work with with dotenvx.
 - [vite-plugin-local](https://github.com/stacksjs/vite-plugin-local) - Pretty development URLs, and HTTPS. _Zero config, zero setup._
 - [dotfiles](https://github.com/chrisbbreuer/dotfiles) - My personal dotfiles.
 
