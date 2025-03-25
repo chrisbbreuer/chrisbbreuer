@@ -39,6 +39,7 @@ My name is Chris. I am 31 years old & a passionate open-source developer who lov
 - [ts-security](https://github.com/stacksjs/ts-security) - Performant & lightweight cryptography tooling.
 - [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
 - [ts-svg](https://github.com/stacksjs/ts-svg) - Powerful developer toolkit for working with SVGs.
+- [ts-vat](https://github.com/stacksjs/ts-vat) - Simply handle EU MOSS tax & VAT regulations & calculations.
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
 - [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
 
