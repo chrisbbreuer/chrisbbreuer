@@ -6,13 +6,21 @@ My name is Chris. I am 31 years old & a passionate open-source developer who lov
 
 ### A few highlights...
 
+#### Sponsorware
+
+- [Stacks Dashboard](https://github.com/stacksjs/stacks) - The Stacks Dashboard. _For developers, and their clients._
+- [Stacks ORM - DynamoDB Driver](https://github.com/stacksjs/stacks) - More than a driver—automated Single Table Design. _Cheap, fast, endless scalability._
+- [Stacks Raycast](https://github.com/stacksjs/stacks) - Stacks integrated into Raycast.
+
 #### Apps
 
+<!-- - [aax](https://github.com/stacksjs/aax) - An app to easily convert your Audible files. -->
 - [Barista](https://github.com/stacksjs/barista) - A lightweight macOS utility that serves up a perfectly organized menubar.
 - [Pomodoro](https://github.com/stacksjs/pomodoro) - Minimal, functional, yet simple Pomodoro menubar app, to help stay focussed. _For Mac._
 
 #### Libraries & CLIs
 
+- [aax](https://github.com/stacksjs/aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
 - [audiox](https://github.com/stacksjs/audiox) - Powerful audio processing for your workflows.
 - [buddy](https://github.com/stacksjs/buddy) - The Stacks CLI.
 - [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
@@ -30,18 +38,26 @@ My name is Chris. I am 31 years old & a passionate open-source developer who lov
 - [rpx](https://github.com/stacksjs/rpx) - A modern, fast reverse proxy. _For a better local development environment._
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
 - [ts-avif](https://github.com/stacksjs/ts-avif) - High quality & small file sizes.
+- [ts-cache](https://github.com/stacksjs/ts-cache) - A fast, type-safe, and feature-rich caching library for modern applications.
+- [ts-clone](https://github.com/stacksjs/ts-clone) - Deeply clone arbitrary objects using TypeScript.
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
 - [ts-countries](https://github.com/stacksjs/ts-countries) - Modern, lightweight, elegant country data management.
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
 - [ts-maps](https://github.com/stacksjs/ts-maps) - Modern & lightweight library for creating interactive vector maps.
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
 - [ts-punycode](https://github.com/stacksjs/ts-punycode) - Lightweight Punycode converter. _RFC 3492 & RFC 5891 supported._
+- [ts-rate-limiter](https://github.com/stacksjs/ts-rate-limiter) - High-performance, flexible rate limiting library. _For TypeScript._
 - [ts-security](https://github.com/stacksjs/ts-security) - Performant & lightweight cryptography tooling.
 - [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
 - [ts-svg](https://github.com/stacksjs/ts-svg) - Powerful developer toolkit for working with SVGs.
 - [ts-vat](https://github.com/stacksjs/ts-vat) - Simply handle EU MOSS tax & VAT regulations & calculations.
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
 - [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
+
+#### Frameworks
+
+- [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [BunPress](https://github.com/stacksjs/bunpress) - Modern documentation-needs covered. _Coming soon._
 
 #### Plugins
 
@@ -52,6 +68,7 @@ My name is Chris. I am 31 years old & a passionate open-source developer who lov
 - [vite-plugin-dotenvx](https://github.com/stacksjs/vite-plugin-dotenvx) - A Vite plugin to seamlessly work with dotenvx.
 - [vite-plugin-layouts](https://github.com/stacksjs/vite-plugin-layouts) - Router-based layouts for your application.
 - [vite-plugin-local](https://github.com/stacksjs/vite-plugin-local) - Pretty development URLs, and HTTPS. _Zero config, zero setup._
+- [vite-plugin-tauri](https://github.com/stacksjs/vite-plugin-tauri) - Zero-setup, highly-configurable cross-platform development.
 
 #### Templates
 
