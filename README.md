@@ -78,6 +78,8 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 - [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports) - Auto Imports support for Bun.
 - [bun-plugin-dotenvx](https://github.com/stacksjs/bun-plugin-dotenvx) - A Bun plugin to seamlessly work with dotenvx.
 - [bun-plugin-dtsx](https://github.com/stacksjs/bun-plugin-dtsx) - Automatically generate your TypeScript DTS files, using Bun's bundler.
+- [bun-plugin-rpx](https://github.com/stacksjs/bun-plugin-rpx) -A modern, fast reverse proxy. _For a better local development environment._
+- [bun-plugin-tlsx](https://github.com/stacksjs/bun-plugin-tlsx) - Bun plugin for a modern TLS library with automation & HTTPS by default.
 - [bun-plugin-unocss](https://github.com/stacksjs/bun-plugin-unocss) - “Instant On-demand Atomic CSS Engine” _- UnoCSS_
 - [vite-plugin-dotenvx](https://github.com/stacksjs/vite-plugin-dotenvx) - A Vite plugin to seamlessly work with dotenvx.
 - [vite-plugin-layouts](https://github.com/stacksjs/vite-plugin-layouts) - Router-based layouts for your application.
