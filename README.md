@@ -2,7 +2,7 @@
 
 ## Hi, everyone! 👋🏼
 
-My name is Chris. I am 32 years old & a passionate open-source developer who loves to travel the world, learn about new cultures & eat good food. When I am not traveling, I live in Los Angeles, CA.
+My name is Chris. I am 32 years old & a passionate open-source developer who loves to travel the world, learn about new cultures, watch sports & eat good food. _When I am not traveling, though, I live in Los Angeles, CA._
 
 ### A few highlights...
 
