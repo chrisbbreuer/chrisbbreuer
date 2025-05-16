@@ -15,6 +15,8 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 
 #### Sponsorware
 
+- [Bun Queue - UI](https://github.com/stacksjs/bun-queue) - A modern & powerful Queue / Messaging system. _Optimized for Bun._
+- [Bun Router - UI](https://github.com/stacksjs/bun-router) - A UI for Bun Router. _High-performance, feature-rich._
 - [Stacks Dashboard](https://github.com/stacksjs/stacks) - The Stacks Dashboard. _For developers, and their clients._
 - [Stacks ORM - DynamoDB Driver](https://github.com/stacksjs/stacks) - More than a driver—automated Single Table Design. _Cheap, fast, endless scalability._
 - [Stacks Raycast](https://github.com/stacksjs/stacks) - Stacks _(and Buddy)_ integrated into Raycast.
@@ -23,6 +25,7 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 
 <!-- - [aax](https://github.com/stacksjs/aax) - An app to easily convert your Audible files. -->
 - [Barista](https://github.com/stacksjs/barista) - A lightweight macOS utility that serves up a perfectly organized menubar.
+- [Hush](https://github.com/stacksjs/hush) - Lightweight macOS utility that ensures notifications are suppressed during meetings.
 - [Pomodoro](https://github.com/stacksjs/pomodoro) - Minimal, functional, yet simple Pomodoro menubar app, to help stay focussed. _For Mac._
 
 #### Libraries & CLIs
@@ -60,6 +63,7 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
 - [ts-numbers](https://github.com/stacksjs/ts-numbers) - Lightweight currencies, weights, phone numbers, and more. _Localized._
 - [ts-pkgx](https://github.com/stacksjs/ts-pkgx) - Automated Typed Pantry details.
+- [ts-potrace](https://github.com/stacksjs/ts-potrace) - Transform bitmap images into scalable vector graphics.
 - [ts-prompts](https://github.com/stacksjs/ts-prompts) - Build modern & pretty CLI applications.
 - [ts-punycode](https://github.com/stacksjs/ts-punycode) - Lightweight Punycode converter. _RFC 3492 & RFC 5891 supported._
 - [ts-rate-limiter](https://github.com/stacksjs/ts-rate-limiter) - High-performance, flexible rate limiting library. _For TypeScript._
@@ -84,12 +88,16 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 - [vite-plugin-dotenvx](https://github.com/stacksjs/vite-plugin-dotenvx) - A Vite plugin to seamlessly work with dotenvx.
 - [vite-plugin-layouts](https://github.com/stacksjs/vite-plugin-layouts) - Router-based layouts for your application.
 - [vite-plugin-local](https://github.com/stacksjs/vite-plugin-local) - Pretty development URLs, and HTTPS. _Zero config, zero setup._
+- [vite-plugin-rpx](https://github.com/stacksjs/rpx) - A Vite plugin for a modern, fast reverse proxy. _For a better local development environment._
 - [vite-plugin-tauri](https://github.com/stacksjs/vite-plugin-tauri) - Zero-setup, highly-configurable cross-platform development.
+- [vite-plugin-tlsx](https://github.com/stacksjs/tlsx) - Simple, yet powerful TLS library. _With automation & HTTPS by default._
 
 #### Templates
 
 - [projects](https://github.com/stacksjs/projects) - A minimal personal portfolio template.
 - [ts-starter](https://github.com/stacksjs/ts-starter) - A rather barebones Bun & TypeScript starting point for libraries & CLIs.
+
+___
 
 ### Current Focus
 
