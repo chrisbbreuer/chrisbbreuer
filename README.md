@@ -10,6 +10,7 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 
 - [BunPress](https://github.com/stacksjs/bunpress) - Modern documentation-needs covered. _Coming soon._
 - [Clapp](https://github.com/stacksjs/clapp) - A modern framework to build powerful & pretty CLI apps.
+- [Launchpad](https://github.com/stacksjs/launchpad) - Performant system & project dependency management. _Similar to Homebrew, just faster._
 - [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [stx](https://github.com/stacksjs/stx) - A fast & powerful UI framework. _Templating inspired by Laravel Blade & Vue._
 
@@ -32,7 +33,9 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 
 - [aax](https://github.com/stacksjs/aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
 - [audiox](https://github.com/stacksjs/audiox) - Powerful audio processing for your workflows.
-- [buddy](https://github.com/stacksjs/buddy) - The Stacks CLI.
+- [backupx](https://github.com/stacksjs/backupx) - Comprehensive & performant database and file backup solution.
+- [buddy-bot](https://github.com/stacksjs/buddy) - Just like Renovate and Dependabot, just open source & self-hosted.
+- [bumpx](https://github.com/stacksjs/bumpx) - Bump your version numbers automatically.
 - [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
 - [bun-queue](https://github.com/stacksjs/queue) - A modern port of BullMQ. _Optimized for Bun usage._
 - [bun-router](https://github.com/stacksjs/router) - A powerful yet lightweight router for your server. _Used by Stacks._
@@ -46,6 +49,7 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 - [imgx](https://github.com/stacksjs/imgx) - Make your images load faster. _A better save for the web._
 - [jpgx](https://github.com/stacksjs/jpgx) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
 - [localtunnels](https://github.com/stacksjs/localtunnels) - A simple and smart tunneling alternative. _Without or with self-hosting._
+- [logsmith](https://github.com/stacksjs/logsmith) - Forge beautiful changelogs from your commits.
 - [pngx](https://github.com/stacksjs/pngx) - Modern PNG encoder & decoder.
 - [post](https://github.com/stacksjs/post) - The Post. A modern mail server & utilities. _Ships with a CLI, library, and UI._
 - [qrx](https://github.com/stacksjs/qrx) - QR & Bar Code generating & reading. _Lightweight & powerful._
@@ -60,6 +64,7 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
 - [ts-inputs](https://github.com/stacksjs/ts-inputs) - Modern input masking.
 - [ts-maps](https://github.com/stacksjs/ts-maps) - Modern & lightweight library for creating interactive vector maps.
+- [ts-medium-editor](https://github.com/stacksjs/ts-medium-editor) - A modern, minimal & performant Medium-like rich text editor.
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
 - [ts-numbers](https://github.com/stacksjs/ts-numbers) - Lightweight currencies, weights, phone numbers, and more. _Localized._
 - [ts-pkgx](https://github.com/stacksjs/ts-pkgx) - Automated Typed Pantry details.
@@ -78,6 +83,8 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 
 #### Plugins & Actions
 
+- [action-launchpad](https://github.com/stacksjs/launchpad) - GitHub Action to install packages using Launchpad.
+- [action-logsmith](https://github.com/stacksjs/logsmith) - Forge beautiful changelogs from your commits.
 - [action-releaser](https://github.com/stacksjs/action-releaser) - Simply attach files, like binaries & distributables, to GitHub Releases.
 - [bun-plugin-auto-imports](https://github.com/stacksjs/bun-plugin-auto-imports) - Auto Imports support for Bun.
 - [bun-plugin-dotenvx](https://github.com/stacksjs/bun-plugin-dotenvx) - A Bun plugin to seamlessly work with dotenvx.
@@ -96,6 +103,7 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 
 - [projects](https://github.com/stacksjs/projects) - A minimal personal portfolio template.
 - [ts-starter](https://github.com/stacksjs/ts-starter) - A rather barebones Bun & TypeScript starting point for libraries & CLIs.
+- [ts-starter-monorepo](https://github.com/stacksjs/ts-starter-monorepo) - Like our `ts-starter`, but optimized for monorepos.
 
 ___
 
